@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Market Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Market Dashboard</h1>
+      <p id="updated" class="muted">Loading…</p>
+    </div>
+    <div class="actions">
+      <button id="refresh" type="button">Refresh</button>
+      <a id="run-update" href="#" target="_blank" rel="noopener">Run update now</a>
+    </div>
+  </header>
+
+  <p id="banner" class="banner" hidden></p>
+  <main id="dashboard"></main>
+
+  <footer class="muted">
+    Daily snapshot for personal reference. Not investment advice; each data source's terms of use apply.
+    Refresh reloads the last saved data and does not fetch live prices.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
