@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:31:57+05:30",
+  "generated_at": "2026-10-16T23:09:12+05:30",
   "trade_date": "2026-10-16",
   "tiles": {
     "fii_net": {
@@ -7,13 +7,13 @@
       "label": "FII / FPI net",
       "section": "flows",
       "unit": "₹ cr",
-      "value": -5285.37,
-      "change": null,
-      "change_pct": null,
-      "as_of": "2026-10-15",
+      "value": 1165.92,
+      "change": 6451.29,
+      "change_pct": -122.05938278682476,
+      "as_of": "2026-10-16",
       "source_name": "NSE India (fiidiiTradeReact)",
       "source_url": "https://www.nseindia.com/api/fiidiiTradeReact",
-      "fetched_at": "2026-10-16T10:31:57+05:30",
+      "fetched_at": "2026-10-16T23:09:12+05:30",
       "status": "ok",
       "error": null
     },
@@ -22,13 +22,13 @@
       "label": "DII net",
       "section": "flows",
       "unit": "₹ cr",
-      "value": 3319.39,
-      "change": null,
-      "change_pct": null,
-      "as_of": "2026-10-15",
+      "value": -3661.28,
+      "change": -6980.67,
+      "change_pct": -210.2997839964572,
+      "as_of": "2026-10-16",
       "source_name": "NSE India (fiidiiTradeReact)",
       "source_url": "https://www.nseindia.com/api/fiidiiTradeReact",
-      "fetched_at": "2026-10-16T10:31:57+05:30",
+      "fetched_at": "2026-10-16T23:09:12+05:30",
       "status": "ok",
       "error": null
     },
@@ -88,7 +88,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-10-16T10:31:57+05:30",
+      "fetched_at": "2026-10-16T23:09:12+05:30",
       "status": "error",
       "error": "EIA_API_KEY is not set"
     },
@@ -97,13 +97,13 @@
       "label": "USD/INR",
       "section": "commodities",
       "unit": "₹",
-      "value": 95.06,
-      "change": -0.09999999999999432,
-      "change_pct": -0.1051,
-      "as_of": "2026-10-15",
+      "value": 94.96,
+      "change": -0.10000000000000853,
+      "change_pct": -0.1052,
+      "as_of": "2026-10-16",
       "source_name": "Frankfurter (ECB reference rate)",
       "source_url": "https://frankfurter.dev",
-      "fetched_at": "2026-10-16T10:31:57+05:30",
+      "fetched_at": "2026-10-16T23:09:12+05:30",
       "status": "ok",
       "error": null
     },
@@ -149,7 +149,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-10-16T10:31:57+05:30",
+      "fetched_at": "2026-10-16T23:09:12+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     },
@@ -165,7 +165,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-10-16T10:31:57+05:30",
+      "fetched_at": "2026-10-16T23:09:12+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     },
@@ -181,7 +181,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-10-16T10:31:57+05:30",
+      "fetched_at": "2026-10-16T23:09:12+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     },
@@ -197,7 +197,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-10-16T10:31:57+05:30",
+      "fetched_at": "2026-10-16T23:09:12+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     }
