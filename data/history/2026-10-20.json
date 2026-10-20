@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T01:31:26+05:30",
+  "generated_at": "2026-10-20T23:35:28+05:30",
   "trade_date": "2026-10-20",
   "tiles": {
     "fii_net": {
@@ -13,7 +13,7 @@
       "as_of": "2026-10-19",
       "source_name": "NSE India (fiidiiTradeReact)",
       "source_url": "https://www.nseindia.com/api/fiidiiTradeReact",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "ok",
       "error": null
     },
@@ -28,7 +28,7 @@
       "as_of": "2026-10-19",
       "source_name": "NSE India (fiidiiTradeReact)",
       "source_url": "https://www.nseindia.com/api/fiidiiTradeReact",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "ok",
       "error": null
     },
@@ -43,7 +43,7 @@
       "as_of": "2026-10-19",
       "source_name": "NSE India (allIndices)",
       "source_url": "https://www.nseindia.com/api/allIndices",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "ok",
       "error": null
     },
@@ -58,7 +58,7 @@
       "as_of": "2026-10-19",
       "source_name": "NSE India (allIndices)",
       "source_url": "https://www.nseindia.com/api/allIndices",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "ok",
       "error": null
     },
@@ -88,7 +88,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "error",
       "error": "EIA_API_KEY is not set"
     },
@@ -98,12 +98,12 @@
       "section": "commodities",
       "unit": "₹",
       "value": 94.93,
-      "change": -0.029999999999986926,
-      "change_pct": -0.0316,
-      "as_of": "2026-10-19",
+      "change": 0.0,
+      "change_pct": 0.0,
+      "as_of": "2026-10-20",
       "source_name": "Frankfurter (ECB reference rate)",
       "source_url": "https://frankfurter.dev",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "ok",
       "error": null
     },
@@ -112,13 +112,13 @@
       "label": "Gold (spot)",
       "section": "commodities",
       "unit": "USD/oz",
-      "value": 4143.200195,
-      "change": -36.5996099999993,
-      "change_pct": -0.8756306930350533,
-      "as_of": "2026-10-19",
+      "value": 4127.600098,
+      "change": -15.60009700000046,
+      "change_pct": -0.3765228872799003,
+      "as_of": "2026-10-20",
       "source_name": "gold-api.com (XAU spot)",
       "source_url": "https://api.gold-api.com/price/XAU",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "ok",
       "error": null
     },
@@ -133,7 +133,7 @@
       "as_of": "2026-10-19",
       "source_name": "NSE India (GOLDBEES quote)",
       "source_url": "https://www.nseindia.com/get-quotes/equity?symbol=GOLDBEES",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "ok",
       "error": null
     },
@@ -149,7 +149,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     },
@@ -165,7 +165,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     },
@@ -181,7 +181,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     },
@@ -197,7 +197,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-10-20T01:31:26+05:30",
+      "fetched_at": "2026-10-20T23:35:28+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     }
