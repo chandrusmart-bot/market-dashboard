@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:56:53+05:30",
+  "generated_at": "2026-11-03T04:20:20+05:30",
   "trade_date": "2026-11-03",
   "tiles": {
     "fii_net": {
@@ -13,7 +13,7 @@
       "as_of": "2026-11-02",
       "source_name": "NSE India (fiidiiTradeReact)",
       "source_url": "https://www.nseindia.com/api/fiidiiTradeReact",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "ok",
       "error": null
     },
@@ -28,7 +28,7 @@
       "as_of": "2026-11-02",
       "source_name": "NSE India (fiidiiTradeReact)",
       "source_url": "https://www.nseindia.com/api/fiidiiTradeReact",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "ok",
       "error": null
     },
@@ -43,7 +43,7 @@
       "as_of": "2026-11-02",
       "source_name": "NSE India (allIndices)",
       "source_url": "https://www.nseindia.com/api/allIndices",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "ok",
       "error": null
     },
@@ -58,7 +58,7 @@
       "as_of": "2026-11-02",
       "source_name": "NSE India (allIndices)",
       "source_url": "https://www.nseindia.com/api/allIndices",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "ok",
       "error": null
     },
@@ -67,15 +67,15 @@
       "label": "GIFT NIFTY",
       "section": "indices",
       "unit": "",
-      "value": 23235.5,
-      "change": 149.5,
-      "change_pct": 0.65,
-      "as_of": "2026-10-31",
+      "value": 23571.5,
+      "change": 23569.14,
+      "change_pct": 318.28,
+      "as_of": "2026-06-29",
       "source_name": "NSE India (marketStatus, GIFT Nifty future)",
       "source_url": "https://www.nseindia.com/api/marketStatus",
-      "fetched_at": "2026-10-31T00:17:22+05:30",
-      "status": "stale",
-      "error": "float() argument must be a string or a real number, not 'NoneType'"
+      "fetched_at": "2026-11-03T04:20:20+05:30",
+      "status": "ok",
+      "error": null
     },
     "brent": {
       "id": "brent",
@@ -88,7 +88,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "error",
       "error": "EIA_API_KEY is not set"
     },
@@ -103,7 +103,7 @@
       "as_of": "2026-11-02",
       "source_name": "Frankfurter (ECB reference rate)",
       "source_url": "https://frankfurter.dev",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "ok",
       "error": null
     },
@@ -118,7 +118,7 @@
       "as_of": "2026-11-02",
       "source_name": "gold-api.com (XAU spot)",
       "source_url": "https://api.gold-api.com/price/XAU",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "ok",
       "error": null
     },
@@ -133,7 +133,7 @@
       "as_of": "2026-11-02",
       "source_name": "NSE India (GOLDBEES quote)",
       "source_url": "https://www.nseindia.com/get-quotes/equity?symbol=GOLDBEES",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "ok",
       "error": null
     },
@@ -149,7 +149,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     },
@@ -165,7 +165,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     },
@@ -181,7 +181,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     },
@@ -197,7 +197,7 @@
       "as_of": null,
       "source_name": "—",
       "source_url": "",
-      "fetched_at": "2026-11-03T03:56:53+05:30",
+      "fetched_at": "2026-11-03T04:20:20+05:30",
       "status": "error",
       "error": "ALPHAVANTAGE_API_KEY is not set"
     }
